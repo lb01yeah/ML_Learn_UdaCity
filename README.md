@@ -6,5 +6,10 @@
 git clone https://github.com/lb01yeah/ML_Learn_UdaCity.git  
 git add .  
 git commit -m ""  
-git push -u origin master  
+git push -u origin master 
+
+二、目录介绍
+01机器学习基础
+02监督学习 supervised learning
+  - L2_PLA(PerceptonLearningAlgorithm-感知器学习算法)
 
