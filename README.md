@@ -13,4 +13,6 @@ git push -u origin master
 02监督学习 supervised learning
  - L2_PLA(PerceptonLearningAlgorithm-感知器学习算法)
  - L3 决策树Decision_Trees
+ - L4 Naive bayes
+ - L5 SVM
 
