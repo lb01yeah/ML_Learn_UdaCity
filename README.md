@@ -15,4 +15,5 @@ git push -u origin master
  - L3 决策树Decision_Trees
  - L4 Naive bayes
  - L5 SVM
-
+ - L6 集成学习方法Bagging 和 Adaboost
+ 
