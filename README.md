@@ -12,8 +12,18 @@ git push -u origin master
 01机器学习基础
 02监督学习 supervised learning
  - L2_PLA(PerceptonLearningAlgorithm-感知器学习算法)
+
  - L3 决策树Decision_Trees
+
  - L4 Naive bayes
+
  - L5 SVM
+
  - L6 集成学习方法Bagging 和 Adaboost
- 
+
+03 非监督学习Unsupervised_learning
+ - L1 聚类cluster
+
+ - L2 聚类Lab project
+
+   使用KMeans对电影评级聚类，并使用聚类提供电影推荐
