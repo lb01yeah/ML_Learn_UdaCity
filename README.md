@@ -22,8 +22,9 @@ git push -u origin master
  - L6 集成学习方法Bagging 和 Adaboost
 
 03 非监督学习Unsupervised_learning
- - L1 聚类cluster
-
+ - L1 聚类cluster 
+   KMeans K-均值聚类
  - L2 聚类Lab project
-
    使用KMeans对电影评级聚类，并使用聚类提供电影推荐
+ - L3 层次聚类(hierarchical clustering)
+    密度聚类density clustering（DBSCAN）
