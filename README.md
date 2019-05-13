@@ -28,3 +28,6 @@ git push -u origin master
    使用KMeans对电影评级聚类，并使用聚类提供电影推荐
  - L3 层次聚类(hierarchical clustering)
     密度聚类density clustering（DBSCAN）
+ - L4 高斯混合模型(Gaussian Mixture Model Clustering)
+    聚类验证(Cluster Validation)
+    
