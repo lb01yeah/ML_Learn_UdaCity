@@ -30,4 +30,7 @@ git push -u origin master
     密度聚类density clustering（DBSCAN）
  - L4 高斯混合模型(Gaussian Mixture Model Clustering)
     聚类验证(Cluster Validation)
-    
+    验证指标
+ - L5 特征缩放Feature_Scaling
+ - L6 PCA（主成分分析）
+
