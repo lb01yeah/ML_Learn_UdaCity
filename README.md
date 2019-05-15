@@ -33,4 +33,8 @@ git push -u origin master
     验证指标
  - L5 特征缩放Feature_Scaling
  - L6 PCA（主成分分析）
+ - L7 PCA迷你项目
+     人脸识别
+ - L8 随机投影与ICA
+ 
 
