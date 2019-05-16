@@ -35,6 +35,8 @@ git push -u origin master
  - L6 PCA（主成分分析）
  - L7 PCA迷你项目
      人脸识别
- - L8 随机投影与ICA
+ - L8 随机投影与ICA（独立成分分析）
+ - L9 评估与总结
+ - L10 [项目]创建客户细分
  
 
