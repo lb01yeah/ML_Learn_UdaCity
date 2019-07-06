@@ -71,6 +71,8 @@ git push -u origin master
     学习如何应用时间差分方法(Sarsa,Q学习和预期)解决阶段性任务和连续性任务。
  - L7 迷你项目：解决OpenAi Gym的Taxi-v2任务
     现在已经掌握了强化学习技巧，可以使用OpenAI Gym探索一个迷你项目。
+ - L8 机器人走迷宫
+    应用Q-learning算法完成一个景点的markov决策问题--走迷宫
     
   
  
