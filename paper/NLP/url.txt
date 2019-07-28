@@ -1,0 +1,3 @@
+【词向量相关博文】https://blog.csdn.net/mawenqi0729/article/details/80698350
+
+【Keras embedding layer 文档】https://keras.io/zh/layers/embeddings/
